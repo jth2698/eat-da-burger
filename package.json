@@ -1,0 +1,24 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "A simple web app allowing users to manipulate burger data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jth2698/eat-da-burger.git"
+  },
+  "keywords": [
+    "database",
+    "orm",
+    "burgers"
+  ],
+  "author": "James Howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jth2698/eat-da-burger/issues"
+  },
+  "homepage": "https://github.com/jth2698/eat-da-burger#readme"
+}
