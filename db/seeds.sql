@@ -1,2 +1,3 @@
+INSERT INTO burgers (name) VALUES ('Hamburger');
 INSERT INTO burgers (name) VALUES ('Cheeseburger');
-INSERT INTO burgers (name, eaten) VALUES ('Hamburger', true);
+INSERT INTO burgers (name) VALUES ('Veggie Burger');
