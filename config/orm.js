@@ -69,7 +69,7 @@ const orm = {
         const queryString = `
         UPDATE ${table}
         SET ${objToSql(objColVals)}
-        WHERE ${condition}
+        WHERE ${objToSql(condition)}
         `;
 
         console.log(queryString);
@@ -86,7 +86,7 @@ const orm = {
     delete: (table, condition, cb) => {
         const queryString = `
         DELETE FROM ${table} 
-        WHERE ${condition}
+        WHERE ${objToSql(condition)}
         `;
 
         console.log(queryString);
