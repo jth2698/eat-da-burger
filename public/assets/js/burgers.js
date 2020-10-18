@@ -26,7 +26,6 @@ $(function () {
 
         const newBurger = {
             name: $("#burger").val().trim(),
-            eaten: $("[name=eaten]:checked").val().trim()
         };
 
         // Send the POST request.
@@ -50,7 +49,7 @@ $(function () {
             type: "DELETE"
         }).then(
             function () {
-                console.log("deleted burger:", id);
+                console.log("deleted burger", id);
                 // Reload the page to get the updated list
                 location.reload();
             }
