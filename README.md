@@ -1,8 +1,10 @@
 # Eat-Da-Burger [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Deployed Application
+## Deployed Application and Link to Portfolio
 
-<https://sheltered-castle-29569.herokuapp.com>
+Application: <https://sheltered-castle-29569.herokuapp.com>
+
+Portfolio: <https://jth2698.github.io/portfolio/>
 
 ## Screenshot
 
